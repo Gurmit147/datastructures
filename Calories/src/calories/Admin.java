@@ -17,7 +17,7 @@ public class Admin {
     JLabel lbllogin;
 
     Admin() {
-        f = new JFrame("CALORIES TRACKER - VIEW CART");
+        f = new JFrame("CALORIES TRACKER - ADMIN");
         f.setSize(600, 400);
         f.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         f.setLayout(null);
